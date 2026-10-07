@@ -1,0 +1,17 @@
+KnowledgeOps AI Company Policy
+
+Refund Policy
+
+Customers can request a refund within 30 days of purchase.
+Refund requests made after 30 days require manager approval.
+Refunds are processed within 5 business days after approval.
+
+Support Policy
+
+Customers can contact support Monday to Friday from 9 AM to 6 PM.
+Priority customers receive responses within 4 business hours.
+
+Security Policy
+
+Customer passwords must never be stored in plain text.
+Sensitive customer information must only be accessible to authorized employees.
